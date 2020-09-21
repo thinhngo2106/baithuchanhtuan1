@@ -1,7 +1,7 @@
 ---
 layout: default
 author: Thinh
-title: Study with T
+title: home
 date: 17/06/2020
 
 ---
